@@ -1,1 +1,1 @@
-Desenvolvimento do Pojeto 1 de Programação Estruturada
+Desenvolvimento do Projeto 1 de Programação Estruturada
