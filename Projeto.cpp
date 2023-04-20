@@ -322,7 +322,7 @@ int continua;
 
         case 7:
         	//faca restauracao dos dados
-        	printf("\n<<<====================<<|      | DADOS RESTAURADOS |      |>>====================>>>\n\n", opcao);
+        	printf("\n<<<====================<<|      |  RESTAURAR DADOS  |      |>>====================>>>\n\n", opcao);
 			
 			printf("5segundos para finalizar...");
 			Sleep(5000);
