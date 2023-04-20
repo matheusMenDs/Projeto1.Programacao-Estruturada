@@ -2,6 +2,7 @@ Projeto 1 de Programação Estruturada.
 
 Descricao do Projeto 01:
 Utilizando os conceitos de vetor, implemente um algoritmo que:
+
 inclua ate1000 usuarios;  CHECK
 edite um usuario;     CHECK
 exclua um usuario;    +/-
